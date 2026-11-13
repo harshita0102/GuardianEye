@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-**Try GuardianEye online:** [Launch GuardianEye](YOUR_STREAMLIT_APP_URL)
+**Try GuardianEye online:** (https://guardianeye.streamlit.app/)
 
 *The live demo link will be activated after deployment.*
 
